@@ -63,15 +63,15 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "België",
-        desc: "Won een pak van 6 flessen Moet&Chadon Coffret Brut Impérial",
+        address: "London, England",
+        desc: "Won a pack of 6 bottles must be Chandon Coffret Brut Impérial",
         img: "./assets/prize.png",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "België",
-        desc: "Won een 6-pack Moet&Chadon Coffret Brut Impérial flessen.",
+        address: "Manchester, England",
+        desc: "Won a 6-pack Moet & Chadon Coffret Brut Impérial bottles.",
         img: "./assets/prize.png",
         time: "25 sec",
     },
