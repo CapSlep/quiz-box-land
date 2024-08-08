@@ -18,7 +18,7 @@
 }
 body {
     min-height: 100vh;
-    background: url("./bag.png") no-repeat;
+    /* background: url("./bag.png") no-repeat; */
     background-size: cover;
     /* background-color: #e0d6c2; */
 }
@@ -426,9 +426,11 @@ body {
 }
 .p_modal_button {
     display: inline-block;
-    -webkit-box-shadow: rgba(140, 212, 245, 0.8) 0 0 2px,
+    -webkit-box-shadow:
+        rgba(140, 212, 245, 0.8) 0 0 2px,
         rgba(0, 0, 0, 0.0470588) 0 0 0 1px inset;
-    box-shadow: rgba(140, 212, 245, 0.8) 0 0 2px,
+    box-shadow:
+        rgba(140, 212, 245, 0.8) 0 0 2px,
         rgba(0, 0, 0, 0.0470588) 0 0 0 1px inset;
     background-color: #000000;
     color: white;
@@ -879,9 +881,12 @@ body {
 
 .caja_premio.flex-counter {
     border-top: 2px solid #e3e3e3;
-    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    -webkit-box-shadow:
+        0 3px 6px rgba(0, 0, 0, 0.16),
         0 3px 6px rgba(0, 0, 0, 0.23);
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow:
+        0 3px 6px rgba(0, 0, 0, 0.16),
+        0 3px 6px rgba(0, 0, 0, 0.23);
     margin: 15px 0 25px;
 }
 
@@ -2361,6 +2366,9 @@ p.question {
 }
 .header_1_1 {
     margin-right: 14px;
+}
+.header_1_1 img {
+    max-width: 75px;
 }
 .header__search {
     width: 35vw;
