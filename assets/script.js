@@ -17,7 +17,7 @@ function displayGift(event) {
     //     2: "2.png",
     //     3: "3.png",
     // };
-    let imgPath = `./assets/prize.png`;
+    let imgPath = `./assets/prize.jpg`;
     let imgItems = Object.values(giftImg);
 
     imgItems.map((item) => {
