@@ -63,16 +63,16 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "Paris, France",
-        desc: "Il a remporté un Nespresso établi 50 capsules",
-        img: "./assets/prize.jpg",
+        address: "London, England",
+        desc: "Won a pack of 6 bottles must be Chandon Coffret Brut Impérial",
+        img: "./assets/prize.png",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "Bordeaux, France",
-        desc: "Il a remporté un Nespresso établi 50 capsules",
-        img: "./assets/prize.jpg",
+        address: "Manchester, England",
+        desc: "Won a 6-pack Moet & Chadon Coffret Brut Impérial bottles.",
+        img: "./assets/prize.png",
         time: "25 sec",
     },
 ];
