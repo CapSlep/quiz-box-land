@@ -63,15 +63,15 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "Amsterdam, Nederland",
-        desc: "Won een Nespresso Set 50 capsules",
+        address: "Madrid, España",
+        desc: "Ganó un nespresso set 50 cápsulas",
         img: "./assets/prize.jpg",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "Den Haag, Nederland",
-        desc: "Won een Nespresso Set 50 capsules",
+        address: "Valencia, España",
+        desc: "Ganó un nespresso set 50 cápsulas",
         img: "./assets/prize.jpg",
         time: "25 sec",
     },
