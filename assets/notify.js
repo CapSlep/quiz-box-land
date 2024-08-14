@@ -64,14 +64,14 @@ const data = [
     {
         name: "Vernay Vio****",
         address: "London, England",
-        desc: "Won a pack of 6 bottles must be Chandon Coffret Brut Impérial",
+        desc: "Won a Starlink Internet Terminal.",
         img: "./assets/prize.png",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
         address: "Manchester, England",
-        desc: "Won a 6-pack Moet & Chadon Coffret Brut Impérial bottles.",
+        desc: "Won a Starlink Internet Terminal.",
         img: "./assets/prize.png",
         time: "25 sec",
     },
