@@ -63,16 +63,16 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "London, England",
-        desc: "Won a Starlink Internet Terminal.",
-        img: "./assets/prize.png",
+        address: "Madrid, España",
+        desc: "Ganó un nespresso set 50 cápsulas",
+        img: "./assets/prize.jpg",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "Manchester, England",
-        desc: "Won a Starlink Internet Terminal.",
-        img: "./assets/prize.png",
+        address: "Valencia, España",
+        desc: "Ganó un nespresso set 50 cápsulas",
+        img: "./assets/prize.jpg",
         time: "25 sec",
     },
 ];
