@@ -42,42 +42,42 @@ const siteKey = "moet-gb";
   const reviewsArr = [
     {
       name: "Josefien",
-      time: "Hace 1 día",
-      header: "Esto es inesperado!",
+      time: "1 dag geleden",
+      header: "Dit is onverwacht!",
       product: "264687852",
       image: "./assets/1.jpg",
-      review: "Para mí, amante del café, esto es más que un gran negocio.",
+      review: "Voor mij, koffieliefhebber, is dit meer dan een groot bedrijf.",
     },
     {
       name: "Anton",
-      time: "Hace 2 días",
-      header: "¡Fantástico!Estoy sin palabras.",
+      time: "2 dagen geleden",
+      header: "Fantastisch! Ik ben sprakeloos.",
       product: "26468789",
       image: "./assets/2.jpg",
-      review: "Hasta hoy, no he podido llenar mi caja de cápsulas hasta recibir este set Nespresso Original. Como puede ver, todas las cápsulas están enteras y sin defectos",
+      review: "Tot vandaag heb ik mijn capsules -doos niet kunnen vullen totdat ik deze originele set -up ontvang.Zoals u kunt zien, zijn alle capsules heel en zonder defecten",
     },
     {
       name: "Jan",
-      time: "Hace 2 días",
-      header: "Me encanta.",
+      time: "2 dagen geleden",
+      header: "Ik houd van.",
       product: "26468783",
       image: "./assets/3.jpg",
-      review: "Después de que la máquina de cápsulas de café apareció en nuestra casa, prácticamente dejamos de tomar café en los cafés, sólo cuando nos olvidamos de comprar cápsulas, pero ahora tenemos un pequeño suministro",
+      review: "Nadat de machine van de koffiecapsules in ons huis verscheen, stopten we praktisch koffie in de cafés, alleen als we vergeten capsules te kopen, maar nu hebben we een klein aanbod",
     },
     {
       name: "Nico",
-      time: "Hace 4 días",
-      header: "Simplemente genial",
+      time: "4 dagen geleden",
+      header: "Gewoon geweldig",
       image: "./assets/4.jpg",
-      review: "Mamá estará contenta, le gusta mucho el café Nespresso. Este set me lo han entregado hoy, estaban bien empaquetados y todas las cápsulas estaban intactas",
+      review: "Moeder zal gelukkig zijn, ze houdt van Nespresso Coffee.Deze set heeft me vandaag gegeven, ze waren goed verpakt en alle capsules waren intact",
     },
     {
       name: "Jackson",
-      time: "Hace 7 días",
-      header: "Wow, estoy absolutamente impresionada con este producto!",
+      time: "7 dagen geleden",
+      header: "Wauw, ik ben absoluut onder de indruk van dit product!",
       product: "26468784",
       image: "./assets/5.jpg",
-      review: "El paquete se entregó a tiempo, tal y como se describía. Estoy muy contento con esta compra por 2 euros.",
+      review: "Het pakket werd op tijd afgeleverd, zoals beschreven.Ik ben erg blij met deze aankoop voor 2 euro.",
     },
   ];
 
@@ -85,7 +85,7 @@ const siteKey = "moet-gb";
     reviews: reviewsArr,
     rr: "",
     percent: "99%",
-    rec: "Opiniones de clientes que han recibido el producto",
+    rec: "Meningen van klanten die het product hebben ontvangen",
   };
 
   const questions = {
