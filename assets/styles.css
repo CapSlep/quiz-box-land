@@ -617,6 +617,14 @@ body {
 }
 
 /***style.css**/
+
+.promo__header {
+    border-bottom: 2px solid #e4e4e4;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
 .header {
     display: -webkit-box;
     display: -ms-flexbox;
