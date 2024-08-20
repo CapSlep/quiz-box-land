@@ -85,7 +85,7 @@ const siteKey = "moet-gb";
     reviews: reviewsArr,
     rr: "",
     percent: "99%",
-    rec: "Meningen van klanten die het product hebben ontvangen",
+    rec: "Opinions of customers who have received the product",
   };
 
   const questions = {
