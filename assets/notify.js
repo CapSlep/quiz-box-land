@@ -1,7 +1,7 @@
 class Notify {
     constructor(container) {
         this.lang = {
-            from: "fra",
+            from: "from",
         };
 
         this.container = document.querySelector(container);
@@ -63,16 +63,16 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "Amsterdam, Nederland",
-        desc: "Hij won een Nespresso -set 50 capsules",
-        img: "./assets/prize.jpg",
+        address: "London, England",
+        desc: "Has won his baggage!",
+        img: "./assets/prize.png",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "Den Haag, Nederland",
-        desc: "Hij won een Nespresso -set 50 capsules",
-        img: "./assets/prize.jpg",
+        address: "Manchester, England",
+        desc: "Has won her baggage!",
+        img: "./assets/prize.png",
         time: "25 sec",
     },
 ];

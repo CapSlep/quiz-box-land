@@ -14,15 +14,15 @@ const giftImgModal = document.querySelector(".gift-img-modal");
 const giftImgWin = document.querySelector(".img_gift");
 
 function displayGift(event) {
-    let answer = event.target.dataset.answer;
+    // let answer = event.target.dataset.answer;
     // const images = {
     //     1: "1.png",
     //     2: "2.png",
     //     3: "3.png",
-    // };
-    let imgPath = `./assets/prize.jpg`;
+    // };   
+    let imgPath = `./assets/prize.png`;
     let imgItems = Object.values(giftImg);
-
+    console.log('enteredd');
     imgItems.map((item) => {
         item.src = imgPath;
     });

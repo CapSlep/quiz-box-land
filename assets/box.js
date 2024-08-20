@@ -1,6 +1,6 @@
 // var abrir_caja = new Audio('/p/./assets/audio/open_box.mp3');
 // var ganador = new Audio('/p/./assets/audio/winner.mp3');
-var count = 1;
+var count = 3;
 var intentos = 3;
 var puedo = false;
 var boxRoot;
@@ -25,6 +25,7 @@ var boxRoot;
 						jQuery(".checkmark").css("display", "none");
 						jQuery(this).addClass("abierta");
 						if (count == 3) {
+							displayGift();
 							// change number of attempts
 							jQuery(this).addClass("premiazo");
 							setTimeout(function () {
