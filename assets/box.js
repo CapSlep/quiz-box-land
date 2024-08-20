@@ -1,6 +1,6 @@
 // var abrir_caja = new Audio('/p/./assets/audio/open_box.mp3');
 // var ganador = new Audio('/p/./assets/audio/winner.mp3');
-var count = 3;
+var count = 2;
 var intentos = 3;
 var puedo = false;
 var boxRoot;
